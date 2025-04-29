@@ -1,4 +1,6 @@
-//intercambiar valores de variables
+/*
+   2) Escriba el fragmento de programa que intercambie los valores de dos variables.
+*/
 #include <iostream>
 using namespace std;
 
@@ -14,6 +16,7 @@ int main(){
     cout << valorA << endl;
     cout << valorB << endl;
     cout << endl;
+
     //alternativa matemática propuesta por alumno
     cout << valorA << endl;
     cout << valorB << endl;
@@ -24,5 +27,6 @@ int main(){
     cout << endl;
     cout << valorA << endl;
     cout << valorB << endl;
+    
     return 0;
 }
