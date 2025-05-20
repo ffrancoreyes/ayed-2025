@@ -23,7 +23,3 @@ En este repositorio encontrarás lo hecho a lo largo del año en las clases de A
 - Arreglos unidimensionales (Vectores).
 - Arreglos bidimensionales (Matrices).
 - Arreglos multidimensionales (Matrices de n filas y n columnas).
-
-## Links de clases grabadas (solo virtuales):
-- [Clase 03 - Patrones de asignación || UTN FRBA](https://youtu.be/qg_yPALjAqw?si=J1V6RTX3RjMe6TSu)
-- [Clase 04 - Patrones de control || UTN FRBA](https://youtu.be/zRb2yWw7hXk?si=lnY73Y127eepzfLx)
